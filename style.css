@@ -1,3 +1,13 @@
 .gradient{
     background: linear-gradient(359deg, #1d1d1dab, #1d1d1dab);
 }
+
+.hedline{
+    font-size: calc(1.4rem + 2vw);
+}
+.pera{
+    font-size: calc(.4rem + 1vw);
+}
+.slider-pd{
+    padding: 0 15%;
+}
